@@ -1,4 +1,5 @@
-#  <h1 align="center">Trabalho-P.O.O Calculadoras</h1>
+# <h1 align="center">Trabalho-P.O.O Calculadoras</h1>
+# <h1 align="center"> (2° ano) Técnico Integrado em Informática </h1>
 # <h1 align="center">Equipe Wanadi 🏹</h1>
 <p align="center">
 <img src= "https://user-images.githubusercontent.com/113256430/207983490-49305b2a-5e7d-4224-a9d9-47d27266266c.png"/>
